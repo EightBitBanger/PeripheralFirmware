@@ -1,0 +1,983 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_exit.o)
+                              C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o (exit)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(cos.o)
+                              obj\source\main.o (symbol from plugin) (cos)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
+                              C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(cos.o) (__fp_rempio2)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
+                              C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(cos.o) (__fp_sinus)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_rempio2.o) (__fp_splitA)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(sin.o)
+                              obj\source\main.o (symbol from plugin) (sin)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_sinus.o) (__addsf3x)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+                              C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_rempio2.o) (__fp_mpack_finite)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_rempio2.o) (__fp_nan)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_powsodd.o)
+                              C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_sinus.o) (__fp_powsodd)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_sinus.o) (__fp_round)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_powsodd.o) (__mulsf3)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+                              C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_powsodd.o) (__fp_powser)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_divmodhi4.o)
+                              C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o (__divmodhi4)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_copy_data.o)
+                              C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o (__do_copy_data)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_clear_bss.o)
+                              C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o (__do_clear_bss)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_udivmodhi4.o)
+                              C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o (__subsf3)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o (__divsf3)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                              C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o (__fixsfsi)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o) (__fixunssfsi)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o (__floatsisf)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o (__gtsf2)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(gesf2.o) (__fp_cmp)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libc.a(memmove.o)
+                              C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o (memmove)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libc.a(memset.o)
+                              C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o (memset)
+C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                              C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libc.a(memmove.o) (memcpy)
+
+Discarded input sections
+
+ .debug_abbrev  0x00000000      0x619 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+ .debug_info    0x00000000      0x672 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+ .debug_line    0x00000000       0x1d C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+ .debug_str     0x00000000      0x234 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+ .debug_line    0x00000000       0x51 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_exit.o)
+ .debug_line_str
+                0x00000000       0x5c C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_exit.o)
+ .debug_info    0x00000000       0x24 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_exit.o)
+ .debug_abbrev  0x00000000       0x14 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_exit.o)
+ .debug_aranges
+                0x00000000       0x20 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_exit.o)
+ .debug_str     0x00000000       0x68 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_exit.o)
+ .debug_line    0x00000000       0xb7 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_divmodhi4.o)
+ .debug_line_str
+                0x00000000       0x5c C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_divmodhi4.o)
+ .debug_info    0x00000000       0x24 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_divmodhi4.o)
+ .debug_abbrev  0x00000000       0x14 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_divmodhi4.o)
+ .debug_aranges
+                0x00000000       0x20 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_divmodhi4.o)
+ .debug_str     0x00000000       0x68 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_divmodhi4.o)
+ .debug_line    0x00000000       0x87 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_copy_data.o)
+ .debug_line_str
+                0x00000000       0x5c C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_copy_data.o)
+ .debug_info    0x00000000       0x24 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_copy_data.o)
+ .debug_abbrev  0x00000000       0x14 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_copy_data.o)
+ .debug_aranges
+                0x00000000       0x20 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_copy_data.o)
+ .debug_str     0x00000000       0x68 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_copy_data.o)
+ .debug_line    0x00000000       0x75 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_clear_bss.o)
+ .debug_line_str
+                0x00000000       0x5c C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_clear_bss.o)
+ .debug_info    0x00000000       0x24 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_clear_bss.o)
+ .debug_abbrev  0x00000000       0x14 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_clear_bss.o)
+ .debug_aranges
+                0x00000000       0x20 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_clear_bss.o)
+ .debug_str     0x00000000       0x68 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_clear_bss.o)
+ .debug_line    0x00000000       0xbd C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_udivmodhi4.o)
+ .debug_line_str
+                0x00000000       0x5c C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_udivmodhi4.o)
+ .debug_info    0x00000000       0x24 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_udivmodhi4.o)
+ .debug_abbrev  0x00000000       0x14 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_udivmodhi4.o)
+ .debug_aranges
+                0x00000000       0x20 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_udivmodhi4.o)
+ .debug_str     0x00000000       0x68 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_udivmodhi4.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw!x
+eeprom           0x00810000         0x00010000         rw!x
+fuse             0x00820000         0x00000003         rw!x
+lock             0x00830000         0x00000400         rw!x
+signature        0x00840000         0x00000400         rw!x
+user_signatures  0x00850000         0x00000400         rw!x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+LOAD obj\source\bitwise.o
+LOAD C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o
+LOAD obj\source\main.o
+START GROUP
+LOAD C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a
+LOAD C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a
+LOAD C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libc.a
+LOAD C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libatmega644.a
+END GROUP
+                0x00020000                        __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x00800060                        __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                0x0000ffa0                        __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                        __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                      __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                        __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                        __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                        __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x20da
+ *(.vectors)
+ .vectors       0x00000000       0x70 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_fplib
+                0x00000070       0x1e C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
+                0x0000008e                        . = ALIGN (0x2)
+                0x0000008e                        __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000008e        0x0 linker stubs
+ *(.trampolines*)
+                0x0000008e                        __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem.*)
+ .progmem.data  0x0000008e      0x2fa C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o
+                0x00000388                        . = ALIGN (0x2)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000388                        __ctors_start = .
+ *(.ctors)
+                0x00000388                        __ctors_end = .
+                0x00000388                        __dtors_start = .
+ *(.dtors)
+                0x00000388                        __dtors_end = .
+ SORT_BY_NAME(*)(.ctors)
+ SORT_BY_NAME(*)(.dtors)
+ *(.init0)
+ .init0         0x00000388        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+                0x00000388                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000388        0xc C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000394       0x16 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_copy_data.o)
+                0x00000394                __do_copy_data
+ .init4         0x000003aa       0x10 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_clear_bss.o)
+                0x000003aa                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000003ba        0x8 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+ *(.init9)
+ *(.text)
+ .text          0x000003c2        0x4 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+                0x000003c2                __vector_22
+                0x000003c2                __vector_1
+                0x000003c2                __vector_24
+                0x000003c2                __vector_12
+                0x000003c2                __bad_interrupt
+                0x000003c2                __vector_6
+                0x000003c2                __vector_23
+                0x000003c2                __vector_25
+                0x000003c2                __vector_11
+                0x000003c2                __vector_13
+                0x000003c2                __vector_17
+                0x000003c2                __vector_19
+                0x000003c2                __vector_7
+                0x000003c2                __vector_27
+                0x000003c2                __vector_5
+                0x000003c2                __vector_4
+                0x000003c2                __vector_9
+                0x000003c2                __vector_2
+                0x000003c2                __vector_21
+                0x000003c2                __vector_15
+                0x000003c2                __vector_8
+                0x000003c2                __vector_26
+                0x000003c2                __vector_14
+                0x000003c2                __vector_10
+                0x000003c2                __vector_16
+                0x000003c2                __vector_18
+                0x000003c2                __vector_20
+ .text          0x000003c6      0x8fc C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o
+                0x00000b16                __vector_3
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(cos.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(sin.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_powsodd.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libc.a(memmove.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libc.a(memset.o)
+ .text          0x00000cc2        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                0x00000cc2                        . = ALIGN (0x2)
+ *(.text.*)
+ .text.startup  0x00000cc2      0xde4 C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o
+                0x00000cc2                main
+ .text.libgcc.mul
+                0x00001aa6        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00001aa6        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00001aa6        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00001aa6        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00001aa6        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00001aa6        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00001aa6        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00001aa6        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.div
+                0x00001aa6       0x28 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_divmodhi4.o)
+                0x00001aa6                _div
+                0x00001aa6                __divmodhi4
+ .text.libgcc   0x00001ace        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00001ace        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00001ace        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00001ace        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00001ace        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00001ace        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00001ace        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00001ace        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00001ace        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00001ace        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00001ace        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00001ace        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00001ace        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00001ace        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00001ace        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00001ace        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00001ace        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00001ace        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00001ace        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00001ace        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.div
+                0x00001ace       0x28 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x00001ace                __udivmodhi4
+ .text.libgcc   0x00001af6        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00001af6        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00001af6        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00001af6        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00001af6        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.avr-libc.fplib
+                0x00001af6        0xa C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(cos.o)
+                0x00001af6                cos
+ .text.avr-libc.fplib
+                0x00001b00       0x56 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
+                0x00001b04                __fp_rempio2
+ .text.avr-libc.fplib
+                0x00001b56       0x28 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
+                0x00001b56                __fp_sinus
+ .text.avr-libc.fplib
+                0x00001b7e       0x44 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x00001b7e                __fp_split3
+                0x00001b8e                __fp_splitA
+ .text.avr-libc.fplib
+                0x00001bc2       0x10 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(sin.o)
+                0x00001bc2                sin
+ .text.avr-libc.fplib
+                0x00001bd2       0xcc C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                0x00001bf4                __addsf3x
+ .text.avr-libc.fplib
+                0x00001c9e        0xc C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x00001c9e                __fp_inf
+ .text.avr-libc.fplib
+                0x00001caa       0x1c C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+                0x00001caa                __fp_mpack
+                0x00001cae                __fp_mpack_finite
+ .text.avr-libc.fplib
+                0x00001cc6        0x6 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x00001cc6                __fp_nan
+ .text.avr-libc.fplib
+                0x00001ccc       0x28 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_powsodd.o)
+                0x00001ccc                __fp_powsodd
+ .text.avr-libc.fplib
+                0x00001cf4        0xe C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x00001cf4                __fp_pscA
+ .text.avr-libc.fplib
+                0x00001d02        0xe C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x00001d02                __fp_pscB
+ .text.avr-libc.fplib
+                0x00001d10       0x22 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x00001d10                __fp_round
+ .text.avr-libc.fplib
+                0x00001d32        0xe C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x00001d32                __fp_zero
+                0x00001d34                __fp_szero
+ .text.avr-libc.fplib
+                0x00001d40        0x8 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x00001d40                __mulsf3
+ .text.avr-libc.fplib
+                0x00001d48       0xd2 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x00001d66                __mulsf3x
+                0x00001d6c                __mulsf3_pse
+ .text.avr-libc.fplib
+                0x00001e1a       0x4e C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+                0x00001e1a                __fp_powser
+ .text.avr-libc.fplib
+                0x00001e68        0xe C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                0x00001e68                __subsf3
+                0x00001e6a                __addsf3
+ .text.avr-libc.fplib
+                0x00001e76        0x8 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                0x00001e76                __divsf3
+ .text.avr-libc.fplib
+                0x00001e7e       0xdc C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                0x00001e9e                __divsf3x
+                0x00001ea4                __divsf3_pse
+ .text.avr-libc.fplib
+                0x00001f5a        0xe C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                0x00001f5a                __fixsfsi
+ .text.avr-libc.fplib
+                0x00001f68       0x5e C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x00001f68                __fixunssfsi
+ .text.avr-libc.fplib
+                0x00001fc6       0x7a C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x00001fc6                __floatunsisf
+                0x00001fca                __floatsisf
+ .text.avr-libc.fplib
+                0x00002040        0xa C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                0x00002040                __gesf2
+                0x00002040                __gtsf2
+ .text.avr-libc.fplib
+                0x0000204a       0x48 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x0000204a                __fp_cmp
+ .text.avr-libc
+                0x00002092       0x24 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libc.a(memmove.o)
+                0x00002092                memmove
+ .text.avr-libc
+                0x000020b6        0xe C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libc.a(memset.o)
+                0x000020b6                memset
+ .text.avr-libc
+                0x000020c4       0x12 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                0x000020c4                memcpy
+                0x000020d6                        . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000020d6        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_exit.o)
+                0x000020d6                _exit
+                0x000020d6                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000020d6        0x4 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+ *(.hightext)
+ *(.hightext*)
+ *(.progmemx.*)
+                0x000020da                        . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+                0x000020da                        _etext = .
+
+.data           0x00800100      0x134 load address 0x000020da
+                0x00800100                        PROVIDE (__data_start = .)
+ *(.data)
+ .data          0x00800100        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+ .data          0x00800100      0x111 C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_exit.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(cos.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(sin.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_powsodd.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libc.a(memmove.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libc.a(memset.o)
+ .data          0x00800211        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ .rodata        0x00800211       0x23 C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x00800234                        . = ALIGN (0x2)
+                0x00800234                        _edata = .
+                0x00800234                        PROVIDE (__data_end = .)
+
+.bss            0x00800234      0xab6
+                0x00800234                        PROVIDE (__bss_start = .)
+ *(.bss)
+ .bss           0x00800234        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+ .bss           0x00800234      0xab6 C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(cos.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(sin.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_powsodd.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libc.a(memmove.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libc.a(memset.o)
+ .bss           0x00800cea        0x0 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ *(.bss*)
+ *(COMMON)
+                0x00800cea                        PROVIDE (__bss_end = .)
+                0x000020da                        __data_load_start = LOADADDR (.data)
+                0x0000220e                        __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800cea        0x0
+                [!provide]                        PROVIDE (__noinit_start = .)
+ *(.noinit .noinit.* .gnu.linkonce.n.*)
+                [!provide]                        PROVIDE (__noinit_end = .)
+                0x00800cea                        _end = .
+                [!provide]                        PROVIDE (__heap_start = .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                        __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x12
+ *(.comment)
+ .comment       0x00000000       0x12 C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o
+                                 0x13 (size before relaxing)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x3c C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line .debug_line.* .debug_line_end)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+ *(.debug_line_str)
+
+.debug_loclists
+ *(.debug_loclists)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+ *(.debug_rnglists)
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+OUTPUT(bin\AVR-KERNEL.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+FlipBits                                          obj\source\bitwise.o (symbol from plugin)
+GetBit                                            obj\source\bitwise.o (symbol from plugin)
+InvertBits                                        obj\source\bitwise.o (symbol from plugin)
+ReorientBits                                      obj\source\bitwise.o (symbol from plugin)
+__FUSE_REGION_LENGTH__                            C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__addsf3                                          C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                                                  C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o
+__addsf3x                                         C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
+__bad_interrupt                                   C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__bss_end                                         C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_clear_bss.o)
+__bss_start                                       C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_clear_bss.o)
+__data_end                                        C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_copy_data.o)
+__data_load_start                                 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_copy_data.o)
+__data_start                                      C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_copy_data.o)
+__divmodhi4                                       C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_divmodhi4.o)
+                                                  C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o
+__divsf3                                          C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                                                  C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o
+__divsf3_pse                                      C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+__divsf3x                                         C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+__do_clear_bss                                    C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_clear_bss.o)
+                                                  C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o
+__do_copy_data                                    C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_copy_data.o)
+                                                  C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o
+__fixsfsi                                         C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                                                  C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o
+__fixunssfsi                                      C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+__floatsisf                                       C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                                                  C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o
+__floatunsisf                                     C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+__fp_cmp                                          C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+__fp_inf                                          C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+__fp_mpack                                        C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+__fp_mpack_finite                                 C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
+__fp_nan                                          C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
+__fp_powser                                       C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_powsodd.o)
+__fp_powsodd                                      C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_powsodd.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
+__fp_pscA                                         C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+__fp_pscB                                         C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+__fp_rempio2                                      C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(sin.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(cos.o)
+__fp_round                                        C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
+__fp_sinus                                        C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(sin.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(cos.o)
+__fp_split3                                       C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+__fp_splitA                                       C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
+__fp_szero                                        C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+__fp_zero                                         C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+__gesf2                                           C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+__gtsf2                                           C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                                                  C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o
+__heap_end                                        C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__init                                            C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__mulsf3                                          C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                                                  C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_powsodd.o)
+__mulsf3_pse                                      C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+__mulsf3x                                         C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+__stack                                           C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__subsf3                                          C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                                                  C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o
+__udivmodhi4                                      C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_udivmodhi4.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_divmodhi4.o)
+__vector_1                                        C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_10                                       C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_11                                       C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_12                                       C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_13                                       C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_14                                       C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_15                                       C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_16                                       C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_17                                       C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_18                                       C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_19                                       C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_2                                        C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_20                                       C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_21                                       C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_22                                       C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_23                                       C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_24                                       C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_25                                       C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_26                                       C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_27                                       C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_3                                        C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o
+                                                  obj\source\main.o (symbol from plugin)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_4                                        C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_5                                        C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_6                                        C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_7                                        C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_8                                        C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_9                                        C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vector_default                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+__vectors                                         C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+_div                                              C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_divmodhi4.o)
+_exit                                             C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_exit.o)
+calculateDepth                                    obj\source\main.o (symbol from plugin)
+char_rom                                          obj\source\main.o (symbol from plugin)
+clearDepthBuffer                                  obj\source\main.o (symbol from plugin)
+cos                                               C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(cos.o)
+                                                  C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o
+                                                  obj\source\main.o (symbol from plugin)
+cursorCounter                                     obj\source\main.o (symbol from plugin)
+cursorState                                       obj\source\main.o (symbol from plugin)
+cursor_line                                       obj\source\main.o (symbol from plugin)
+cursor_position                                   obj\source\main.o (symbol from plugin)
+depthBuffer                                       obj\source\main.o (symbol from plugin)
+deviceROM                                         obj\source\main.o (symbol from plugin)
+drawCircle                                        obj\source\main.o (symbol from plugin)
+drawFilledCircle                                  obj\source\main.o (symbol from plugin)
+drawFilledRect                                    obj\source\main.o (symbol from plugin)
+drawLine3D                                        obj\source\main.o (symbol from plugin)
+drawPixelDepth                                    obj\source\main.o (symbol from plugin)
+drawQuad                                          obj\source\main.o (symbol from plugin)
+drawRect                                          obj\source\main.o (symbol from plugin)
+drawRotatedRect                                   obj\source\main.o (symbol from plugin)
+drawShadedTriangle3D                              obj\source\main.o (symbol from plugin)
+drawTriangle3D                                    obj\source\main.o (symbol from plugin)
+exit                                              C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/avr5\libgcc.a(_exit.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+frameBuffer                                       obj\source\main.o (symbol from plugin)
+init                                              obj\source\main.o (symbol from plugin)
+main                                              C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o
+                                                  obj\source\main.o (symbol from plugin)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega644.o
+memcpy                                            C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                                                  C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libc.a(memmove.o)
+memmove                                           C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libc.a(memmove.o)
+                                                  C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o
+memset                                            C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libc.a(memset.o)
+                                                  C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o
+projectPoint                                      obj\source\main.o (symbol from plugin)
+renderDrawGlyph                                   obj\source\main.o (symbol from plugin)
+renderDrawGlyphText                               obj\source\main.o (symbol from plugin)
+renderGraphics                                    obj\source\main.o (symbol from plugin)
+renderLines                                       obj\source\main.o (symbol from plugin)
+renderSprites                                     obj\source\main.o (symbol from plugin)
+renderText                                        obj\source\main.o (symbol from plugin)
+renderVertexBuffer                                obj\source\main.o (symbol from plugin)
+rotateX                                           obj\source\main.o (symbol from plugin)
+rotateY                                           obj\source\main.o (symbol from plugin)
+rotateZ                                           obj\source\main.o (symbol from plugin)
+shouldDrawPixel                                   obj\source\main.o (symbol from plugin)
+sin                                               C:/CodeBlocks/avr-gcc/bin/../lib/gcc/avr/13.2.0/../../../../avr/lib/avr5\libm.a(sin.o)
+                                                  C:\Users\SNIPER~1\AppData\Local\Temp\cct98BtV.ltrans0.ltrans.o
+                                                  obj\source\main.o (symbol from plugin)
+sprite_sheet                                      obj\source\main.o (symbol from plugin)
+swapBuffers                                       obj\source\main.o (symbol from plugin)
+vertex_buffer                                     obj\source\main.o (symbol from plugin)
